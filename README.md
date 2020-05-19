@@ -1,2 +1,2 @@
 # Insta-Bot
-An instagram bot that steals meme from reddit and posts them on my page
+An instagram bot that steals memes from reddit and posts them on my page
