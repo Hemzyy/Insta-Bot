@@ -23,7 +23,7 @@ with open('./memes/meme.jpg', 'wb') as f:
 username = 'username'
 password = 'password'
 image = './file/path.jpg'
-text = 'This is a test.' + '\r\n' + '#test'
+text = 'This is an example caption.' + '\r\n' + '#tag'
 
 with client(username, password) as cli:
     cli.upload(image, text)
